@@ -1,4 +1,4 @@
-# World_Cup
+# World Cup
 From the FIFA_world_cup_matches.csv file, I was able to use SQL Notebook to build an average statistics and a final world cup table which included stats like
 1. Average Possession
 2. Number of goals scored
